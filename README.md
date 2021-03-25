@@ -5,9 +5,9 @@ This page is created for the AIML 260 course Winter 2020/21
 
 
 # References:
-  1. math189r
-      * https://aiml260.github.io
-      * This is the page created for Non-Euclidean Metrics and Lie Theory in Robotic Control by Eric Weiner (adapted from a previous webpage made by Conner DiPaolo), the head grutor of that course.
+  1. AIML260
+      * https://aiml73.github.io
+      * This is the page created for Linear Algebra by Eric Weiner (adapted from a previous webpage made by Conner DiPaolo), the head grutor of that course.
       * Most of the information in syllabus and course schedule are obtained
       from the original page.
   2. TEMPLATED.co
