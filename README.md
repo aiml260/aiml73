@@ -1,12 +1,12 @@
 # Mathematics of Big Data Spring 2019  
 Taught by Professor Weiqing Gu
 
-This page is created for the AIML 260 course Winter 2020/21
+This page is created for the AIML 73 course Spring 2021
 
 
 # References:
   1. AIML260
-      * https://aiml73.github.io
+      * https://dasion-aiml.github.io/aiml73/
       * This is the page created for Linear Algebra by Eric Weiner (adapted from a previous webpage made by Conner DiPaolo), the head grutor of that course.
       * Most of the information in syllabus and course schedule are obtained
       from the original page.
